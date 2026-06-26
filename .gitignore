@@ -1,0 +1,11 @@
+# virtual environment — machine-specific, regenerable, large
+ecg-env/
+
+# the dataset — publicly downloadable, too big for git
+ptb-xl/
+
+# python / jupyter cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
