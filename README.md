@@ -4,14 +4,14 @@ Summer research project at Habib University, supervised by **Dr. Zafar Iqbal** t
 
 This repository builds a diagnostic classifier for 12 lead electrocardiograms that combines two very different kinds of evidence: the raw electrical signal from the heart, and the patient metadata that sits alongside it. It then asks a second question of the resulting model: not just *how well* does it classify, but *why* does it decide what it decides, and does that reasoning hold up against what a cardiologist would expect. Every component here was written from scratch in PyTorch rather than assembled from prebuilt pipelines, because the point was to understand each piece, not just run it.
 
-**Student researchers:** Muhammad Ebad Atif, Bushra Sadaf, Hamayel Mashkoor, 
+**Student researchers:** Muhammad Ebad Atif, Bushra Sadaf, Hamayel Mashkoor
 **Supervisor:** Dr. Zafar Iqbal, Office of Research
 
 ---
 
 ## Poster
 
-![Research poster: A Multimodal Deep Learning Approach for Myocardial Infarction Classification Using ECG and Clinical Data](STRP Poster.png)
+![Research poster: A Multimodal Deep Learning Approach for Myocardial Infarction Classification Using ECG and Clinical Data](STRP%20Poster.png)
 
 The poster above summarizes the project as presented at the progress check-in. It predates the full explainability writeup below; this README is the fuller, living account.
 
