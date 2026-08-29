@@ -11,7 +11,7 @@ This repository builds a diagnostic classifier for 12 lead electrocardiograms th
 
 ## Poster
 
-![Research poster: A Multimodal Deep Learning Approach for Myocardial Infarction Classification Using ECG and Clinical Data](STRP%20Poster.png)
+![Research poster: A Multimodal Deep Learning Approach for Myocardial Infarction Classification Using ECG and Clinical Data](research_poster.png)
 
 The poster above summarizes the project as presented at the progress check-in. It predates the full explainability writeup below; this README is the fuller, living account.
 
